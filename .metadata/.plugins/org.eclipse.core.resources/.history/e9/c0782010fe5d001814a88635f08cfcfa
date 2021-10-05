@@ -1,0 +1,6 @@
+
+public class Final {
+	final int THRESHOLD=5;
+	
+	final int MINIMUM;
+}

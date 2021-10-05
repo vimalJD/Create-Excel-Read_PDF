@@ -1,0 +1,11 @@
+
+public class PDFTest {
+
+	public static void main(String[] args) {
+
+		PDFManager pdfManager = new PDFManager();
+	       pdfManger.setFilePath("E:\test.pdf");
+	       System.out.println(pdfManager.ToText());       
+	}
+
+}
