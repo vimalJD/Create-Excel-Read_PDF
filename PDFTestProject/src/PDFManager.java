@@ -28,7 +28,7 @@ public class PDFManager {
 
 	}
 
-	public String ToText() throws IOException {
+	public String toText() throws IOException {
 		this.pdfStripper = null;
 		this.pdDoc = null;
 		this.cosDoc = null;
