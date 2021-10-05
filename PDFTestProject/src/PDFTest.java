@@ -6,7 +6,7 @@ public class PDFTest {
 
 		PDFManager pdfManager = new PDFManager();
 	       pdfManager.setFilePath("H:/java_tutorial.pdf");
-	       System.out.println(pdfManager.ToText());       
+	       System.out.println(pdfManager.toText());       
 	}
 
 }
